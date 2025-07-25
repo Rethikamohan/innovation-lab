@@ -1,7 +1,0 @@
-let tasks = []; 
-
-function addTask(task, callback) {
-  tasks.push(task);
-  callback(); 
-Calls the callback function after adding
-}
